@@ -14,6 +14,6 @@ public class Transaction {
 
 
     public static void main(String[] args) {
-        Transaction trans = new Transaction();
+        //Transaction trans = new Transaction();
     }
 }
